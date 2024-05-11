@@ -23,8 +23,8 @@ Como Analista de Suporte técnico
 
 ## Contatos
 
-<a href=https://www.linkedin.com/in/d16l/ target="_blank"> <img src=https://github.com/D16l/D16l/assets/156725558/5da20ece-5135-4d9c-b194-2352f7e06f27 />
-<a href=https://cursos.alura.com.br/user/dennyDEV target="_blank"> <img src=https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4 width="60" height="60" />
+<a href="https://www.linkedin.com/in/d16l/" target="_blank"> <img src=https://github.com/D16l/D16l/assets/156725558/5da20ece-5135-4d9c-b194-2352f7e06f27 />
+<a href="https://cursos.alura.com.br/user/dennyDEV" target="_blank"> <img src=https://play-lh.googleusercontent.com/yDjaHCaOn_O89vnY7eOKH6ElEBtJrmN2CSI4yhiP1_GVC2zrxXWSFGxO0lt9-CU0mV4 width="60" height="60" />
 <a href="mailto:contato@devsspace.com.br" target="_blank"> <img src=https://github.com/D16l/D16l/assets/156725558/93e980a6-aa6d-4931-a7e0-d938709e14d0 width="60" height="60" />
 
 
