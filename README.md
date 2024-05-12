@@ -1,11 +1,23 @@
-# Hi there fellow devs 👋
+<div display="inline_block">
+  <h1>Hi there fellow devs 👋</h1>
+  <details>
+  <summary>Contatos</summary>
+<br>
+<a href="https://www.linkedin.com/in/d16l/" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/290681d6-a838-487a-a419-4d21deacd6cb" width="22px" height="22px"/>
+<a href="https://cursos.alura.com.br/user/dennyDEV" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/0ea78068-113d-4a9d-8acf-7fb30b9a0f50" width="22px" height="22px" />
+<a href="mailto:contato@devsspace.com.br" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/e8f60f0f-2a7d-4f35-a6a1-758fa73a78d3" width="28px" height="28px" /></a>
+</details>
+</br>
+</div>
 
 ### :mag:Sobre mim
 
-Me chamo 🅳🅴🅽🅽🆈, atualmente tenho 21 anos, sou de SC e sou um **desenvolvedor iniciante**, tento aprender coisas novas todos os dias pois recentemente me apaixonei pela área de programação :smiley:
+* Me chamo 🅳🅴🅽🅽🆈 e tenho 21 anos;
+* Sou natural de SC;
+* Fazendo *Superior em Sistemas para Internet* na <a href="https://www.unicesumar.edu.br">Unicesumar</a>;
+* Gosto de escutar soundtracks de várias obras, andar de bike nas horas vagas e aprender coisas novas!
+* Atualmente trabalho na <a href="https://unifique.com.br">Unifique</a> como Analista de Suporte técnico.
 <br>
-
-
 
 
 ### 💻Linguagens e Ferramentas:
@@ -21,18 +33,8 @@ Me chamo 🅳🅴🅽🅽🆈, atualmente tenho 21 anos, sou de SC e sou um **de
 <br>
 
 ##
-:mortar_board:Atualmente estou fazendo *Superior em Sistemas para Internet* na <a href="https://www.unicesumar.edu.br">Unicesumar</a>
-
-:office:Atualmente trabalho na <a href="https://unifique.com.br">Unifique</a> como Analista de Suporte técnico.
 
 
-##
-
-<a href="https://www.linkedin.com/in/d16l/" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/290681d6-a838-487a-a419-4d21deacd6cb" width="22px" height="22px"/>
-<a href="https://cursos.alura.com.br/user/dennyDEV" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/0ea78068-113d-4a9d-8acf-7fb30b9a0f50" width="22px" height="22px" />
-<a href="mailto:contato@devsspace.com.br" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/e8f60f0f-2a7d-4f35-a6a1-758fa73a78d3" width="28px" height="28px" /></a>
-
-</br>
 
 ##
 <p align="left">
@@ -41,4 +43,7 @@ Me chamo 🅳🅴🅽🅽🆈, atualmente tenho 21 anos, sou de SC e sou um **de
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D16l&layout=donut&theme=transparent" />
   </a>
 </p>
+
+
+
 
