@@ -1,11 +1,11 @@
 <div display="inline_block">
   <h1>Hi there fellow devs 👋</h1>
   <details>
-  <summary>Contatos</summary>
+  <summary>CONTATOS</summary>
 <br>
-<a href="https://www.linkedin.com/in/d16l/" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/290681d6-a838-487a-a419-4d21deacd6cb" width="22px" height="22px"/>
-<a href="https://cursos.alura.com.br/user/dennyDEV" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/0ea78068-113d-4a9d-8acf-7fb30b9a0f50" width="22px" height="22px" />
-<a href="mailto:contato@devsspace.com.br" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/e8f60f0f-2a7d-4f35-a6a1-758fa73a78d3" width="28px" height="28px" /></a>
+<a href="https://www.linkedin.com/in/d16l/" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/660ccc64-7fa3-49b9-8ff6-33fe03b07a9c" width="40px" height="40px"/>
+<a href="https://cursos.alura.com.br/user/dennyDEV" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/0768507a-3128-4e4e-8738-f304680dc843" width="40px" height="40px" />
+<a href="mailto:contato@devsspace.com.br" target="_blank"> <img align="left" src="https://github.com/D16l/D16l/assets/156725558/074b95c5-5091-4f4f-a0ac-3486d6423eff" width="40px" height="40px" /></a>
 </details>
 </br>
 </div>
@@ -33,17 +33,11 @@
 <br>
 
 ##
-
-
-
-##
 <p align="left">
   <a href="https://github.com/D16l">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D16l&show_icons=true&theme=transparent" />
+    </a>
+  <a href="https://github.com/D16l">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D16l&layout=donut&theme=transparent" />
-  </a>
+    </a>
 </p>
-
-
-
-
