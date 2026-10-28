@@ -12,11 +12,10 @@
 
 ### :mag:Sobre mim
 
-* Me chamo 🅳🅴🅽🅽🆈 e tenho 21 anos;
+* Me chamo 🅳🅴🅽🅽🆈 e tenho 24 anos;
 * Sou natural de SC;
 * Fazendo *Superior em Sistemas para Internet* na <a href="https://www.unicesumar.edu.br">Unicesumar</a>;
 * Gosto de escutar soundtracks de várias obras, andar de bike nas horas vagas e aprender coisas novas!
-* Atualmente trabalho na <a href="https://unifique.com.br">Unifique</a> como Líder de Suporte técnico.
 <br>
 
 
